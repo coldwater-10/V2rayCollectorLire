@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/coldwater-10/V2rayCollectorLire/collector"
+	"github.com/coldwater-10/V2rayCollectorLire/tree/main/collector"
 
 	"github.com/PuerkitoBio/goquery"
 	"github.com/jszwec/csvutil"
