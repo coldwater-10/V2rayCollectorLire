@@ -21,7 +21,7 @@ import (
 var (
 	client       = &http.Client{}
 	maxMessages  = 100
-	ConfigsNames = "@vpnclashfa join us"
+	ConfigsNames = "@vpnclashfa"
 	configs      = map[string]string{
 		"ss":     "",
 		"vmess":  "",
