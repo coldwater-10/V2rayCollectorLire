@@ -69,11 +69,11 @@ ss://YWVzLTI1Ni1jZmI6OVh3WXlac0s4U056UUR0WQ@103.172.116.79:9059#@vpnclashfa - 82
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.79:443#@vpnclashfa - 81
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.196:443#@vpnclashfa - 80
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@154.47.20.240:443#@vpnclashfa - 79
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@uk-dc1.yangon.club:443#@vpnclashfa - 78
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#@vpnclashfa - 77
-ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#@vpnclashfa - 76
-ss://YWVzLTEyOC1nY206ZDdmY2ZmNWQtZTNjNi00ZDI2LWFhMGEtMmFmMmFiODc2NzU3@gd.trojanws.xyz:10599#@vpnclashfa - 75
-ss://YWVzLTEyOC1nY206ZDdmY2ZmNWQtZTNjNi00ZDI2LWFhMGEtMmFmMmFiODc2NzU3@gd.trojanws.xyz:10596#@vpnclashfa - 74
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.196:443#@vpnclashfa - 78
+ss://YWVzLTEyOC1nY206am9pbi0tWkVETU9ERU9O@zedmodeon-join-zedmodeon.kanal-asli-zedmodeon.shop:25366#@vpnclashfa - 77
+ss://YWVzLTEyOC1nY206ZDdmY2ZmNWQtZTNjNi00ZDI2LWFhMGEtMmFmMmFiODc2NzU3@gd.trojanws.xyz:10599#@vpnclashfa - 76
+ss://YWVzLTEyOC1nY206ZDdmY2ZmNWQtZTNjNi00ZDI2LWFhMGEtMmFmMmFiODc2NzU3@gd.trojanws.xyz:10596#@vpnclashfa - 75
+ss://YWVzLTEyOC1nY206WGRuUUhoYUJVUnVrcnBmX2xtS2xnQQ==@[2a12:5940:a5d5::2]:1080#@vpnclashfa - 74
 ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:46935#@vpnclashfa - 73
 ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:46678#@vpnclashfa - 72
 ss://YWVzLTEyOC1nY206NDhiMTk3ZGEwZTQxNGFjYw==@e3a2dc3.mifgfs.xyz:45596#@vpnclashfa - 71
