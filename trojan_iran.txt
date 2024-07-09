@@ -1,7 +1,6 @@
-trojan://ypDt8RkT7J@62.210.91.66:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 111
-trojan://ypDt8RkT7J@151.115.88.59:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 110
-trojan://ypDt8RkT7J@143.244.43.216:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 109
-trojan://ypDt8RkT7J@138.199.23.100:43118/?type=tcp&security=tls&sni=radtz.phooeyunfold.com#@vpnclashfa - 108
+trojan://ypDt8RkT7J@62.210.91.66:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 110
+trojan://ypDt8RkT7J@151.115.88.59:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 109
+trojan://ypDt8RkT7J@143.244.43.216:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 108
 trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&type=tcp&sni=google.com#@vpnclashfa - 107
 trojan://telegram-id-privatevpns@52.47.61.82:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 106
 trojan://telegram-id-privatevpns@18.159.174.73:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 105
