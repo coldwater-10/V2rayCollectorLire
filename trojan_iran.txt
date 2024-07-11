@@ -1,11 +1,8 @@
-trojan://ypDt8RkT7J@62.210.91.66:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 113
-trojan://ypDt8RkT7J@151.115.88.59:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 112
-trojan://ypDt8RkT7J@143.244.43.216:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 111
-trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&type=tcp&sni=google.com#@vpnclashfa - 110
-trojan://telegram-id-privatevpns@52.47.61.82:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 109
-trojan://telegram-id-privatevpns@3.10.102.144:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 108
-trojan://telegram-id-privatevpns@18.159.174.73:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 107
-trojan://telegram-id-privatevpns@16.170.189.237:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 106
+trojan://ypDt8RkT7J@62.210.91.66:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 110
+trojan://ypDt8RkT7J@151.115.88.59:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 109
+trojan://ypDt8RkT7J@143.244.43.216:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 108
+trojan://wkmY1R4EcP@45.76.47.77:443?security=tls&headerType=none&type=tcp&sni=google.com#@vpnclashfa - 107
+trojan://telegram-id-privatevpns@3.10.102.144:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk#@vpnclashfa - 106
 trojan://telegram-id-directvpn@99.79.14.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 105
 trojan://telegram-id-directvpn@99.79.125.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 104
 trojan://telegram-id-directvpn@63.35.56.204:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 103
