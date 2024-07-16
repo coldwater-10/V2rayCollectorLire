@@ -1,9 +1,8 @@
-ss://YWVzLTI1Ni1nY206d0RadHhmSWszVWhhY0tIcmhvN2x4dw@5.182.87.210:35961#@vpnclashfa - 146
-ss://YWVzLTI1Ni1nY206d0RadHhmSWszVWhhY0tIcmhvN2x4dw==@5.182.87.210:35961#@vpnclashfa - 145
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.207:443#@vpnclashfa - 144
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#@vpnclashfa - 143
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.118:5499#@vpnclashfa - 142
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.114.114.6:5499#@vpnclashfa - 141
+ss://YWVzLTI1Ni1nY206d0RadHhmSWszVWhhY0tIcmhvN2x4dw@5.182.87.210:35961#@vpnclashfa - 145
+ss://YWVzLTI1Ni1nY206d0RadHhmSWszVWhhY0tIcmhvN2x4dw==@5.182.87.210:35961#@vpnclashfa - 144
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.207:443#@vpnclashfa - 143
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.80:5498#@vpnclashfa - 142
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.93.118:5499#@vpnclashfa - 141
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@23.162.200.133:5498#@vpnclashfa - 140
 ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@15.204.87.222:5499#@vpnclashfa - 139
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.111.114.133:8882#@vpnclashfa - 138
