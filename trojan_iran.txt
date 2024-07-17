@@ -1,8 +1,7 @@
-trojan://ypDt8RkT7J@62.210.91.66:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 106
-trojan://ypDt8RkT7J@151.115.88.59:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 105
-trojan://ypDt8RkT7J@151.115.83.239:43118/?type=tcp&security=tls&sni=egajz.phooeyunfold.com#@vpnclashfa - 104
-trojan://ypDt8RkT7J@143.244.43.216:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 103
-trojan://ypDt8RkT7J@138.199.57.185:43118/?type=tcp&security=tls&sni=eiety.phooeyunfold.com#@vpnclashfa - 102
+trojan://ypDt8RkT7J@62.210.91.66:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 105
+trojan://ypDt8RkT7J@151.115.88.59:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 104
+trojan://ypDt8RkT7J@151.115.83.239:43118/?type=tcp&security=tls&sni=egajz.phooeyunfold.com#@vpnclashfa - 103
+trojan://ypDt8RkT7J@143.244.43.216:43118/?type=tcp&security=tls&sni=vkvd127.mycdn.me&allowInsecure=1&fp=chrome#@vpnclashfa - 102
 trojan://telegram-id-privatevpns@16.171.94.70:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 101
 trojan://telegram-id-privatevpns@13.50.169.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 100
 trojan://telegram-id-directvpn@63.35.255.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 99
