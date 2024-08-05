@@ -1,4 +1,5 @@
-trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&headerType=none&type=tcp&sni=wuxgk.phooeyunfold.com#@vpnclashfa - 121
+trojan://ypDt8RkT7J@62.210.82.54:43118?security=tls&headerType=none&type=tcp&sni=wuxgk.phooeyunfold.com#@vpnclashfa - 122
+trojan://x5kSg7hzY0@neth.raspberryip.com:17497/?type=grpc&security=tls&sni=neth.raspberryip.com&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 121
 trojan://telegram-id-privatevpns@63.34.128.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 120
 trojan://telegram-id-privatevpns@54.77.127.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 119
 trojan://telegram-id-privatevpns@51.44.44.126:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 118
