@@ -96,8 +96,8 @@ trojan://tKadZAThEQ@188.245.59.155:57875?security=tls&headerType=none&type=tcp#@
 trojan://sharevpn@tr1.mynode.work.gd:443?security=tls&alpn=http/1.1&headerType=none&fp=chrome&type=tcp&sni=tr1.mynode.work.gd#@vpnclashfa - 8
 trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@tw2.233235.xyz:725?security=tls&headerType=none&type=tcp#@vpnclashfa - 7
 trojan://cfa36789-94aa-4c4c-ad06-ab35a8eb9312@1sg04.170203.xyz:718?security=tls&headerType=none&type=tcp#@vpnclashfa - 6
-trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 5
-trojan://UFKZr6IvK1@sin.raspberryip.com:17686/?type=grpc&security=tls&sni=sin.raspberryip.com&alpn=h2%2Chttp%2F1.1#@vpnclashfa - 4
+trojan://bVUMJoUwGYvDLGbfZyt52ynMi@free-nl-2.undef.network:443?path=%2Ff2fc2a1f&security=tls&host=free-nl-2.undef.network&type=ws&sni=free-nl-2.undef.network#@vpnclashfa - 5
+trojan://auto@104.21.90.210:2053?path=%2F&security=tls&host=e9464f45.trauma-2r4.pages.dev&type=ws&sni=e9464f45.trauma-2r4.pages.dev#@vpnclashfa - 4
 trojan://TurbooServer@107.189.31.164:2083?security=none&headerType=none&type=tcp#@vpnclashfa - 3
 trojan://ImmWF6vjOb75qkrNcFOwrg@zula.ir:80?security=none&type=ws&headerType=&path=%2Fshop&host=shop.fa-behsazan.ir#@vpnclashfa - 2
 trojan://865bc912-0b17-4bd1-b711-958d77232689@coal.zichuanlan.top:443?security=tls&headerType=none&type=tcp&sni=coal.zichuanlan.top#@vpnclashfa - 1
