@@ -1,8 +1,7 @@
-trojan://wkmY1R4EcP@45.77.167.12:443/?type=tcp&security=tls&sni=z-v2-003319.kailib.com#@vpnclashfa - 126
-trojan://tg-dns68@cf.090227.xyz:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#@vpnclashfa - 125
-trojan://tg-dns68@150.230.206.237:9710/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 124
-trojan://telegram-id-privatevpns@3.127.87.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 123
-trojan://telegram-id-privatevpns@16.171.100.224:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 122
+trojan://wkmY1R4EcP@45.77.167.12:443/?type=tcp&security=tls&sni=z-v2-003319.kailib.com#@vpnclashfa - 125
+trojan://tg-dns68@cf.090227.xyz:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=vip.putata.eu.org&fp=randomized&type=ws&sni=vip.putata.eu.org#@vpnclashfa - 124
+trojan://tg-dns68@150.230.206.237:9710/?type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&security=tls&sni=vip.putata.eu.org&alpn=h3&fp=randomized#@vpnclashfa - 123
+trojan://telegram-id-privatevpns@3.127.87.230:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1#@vpnclashfa - 122
 trojan://telegram-id-directvpn@99.79.151.66:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 121
 trojan://telegram-id-directvpn@54.93.167.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 120
 trojan://telegram-id-directvpn@54.229.115.101:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 119
