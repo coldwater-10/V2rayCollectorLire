@@ -1,6 +1,7 @@
-trojan://trojan@172.64.155.16:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 141
-trojan://trojan@104.18.5.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 140
-trojan://trojan@104.18.4.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 139
+trojan://trojan@172.64.155.16:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 142
+trojan://trojan@104.18.5.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 141
+trojan://trojan@104.18.4.250:2053?path=%2F%3Fed%3D2560&security=tls&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev#@vpnclashfa - 140
+trojan://tg-fq521free@216.24.57.30:443?path=%2F&security=tls&host=torjan.xn--xhq44j.eu.org&type=ws&sni=torjan.xn--xhq44j.eu.org#@vpnclashfa - 139
 trojan://telegram-id-privatevpns@52.47.67.58:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 138
 trojan://telegram-id-privatevpns@52.208.124.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 137
 trojan://telegram-id-privatevpns@46.51.179.109:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@vpnclashfa - 136
